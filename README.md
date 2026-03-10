@@ -5,19 +5,19 @@ Este espaço foi criado para centralizar os artefatos, templates e estudos de ca
 ## 📁 Estrutura do Repositório
 
 O material está dividido por módulos de aprendizagem:
-
-├── 📂 02-gestao-de-riscos/<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 template_risk_register.md     # Template do Registro de Riscos Corporativo<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 guia_avaliacao_impacto.pdf    # Réguas de Probabilidade e Impacto (LGPD/Financeiro)<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 case_healthtech_solutions.md  # Estudo de Caso: Migração Cloud sob pressão<br/>
-│<br/>
-├── 📂 03-security-by-design/<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 template_matriz_stride.md     # Matriz de Requisitos e Modelagem de Ameaças<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📄 case_freelasy_app.md          # Estudo de Caso: App SaaS de faturamento<br/>
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 roteiro_instalacao_tools.md   # Guia de instalação do Threat Dragon e Microsoft TMT<br/>
-│<br/>
-└── 📄 README.md                         # Este arquivo<br />
-
+```
+├── 📂 aula-01-gestao-de-riscos/
+│   ├── 📄 template_risk_register.md     # Template do Registro de Riscos Corporativo
+│   ├── 📄 guia_avaliacao_impacto.pdf    # Réguas de Probabilidade e Impacto (LGPD/Financeiro)
+│   └── 📄 case_healthtech_solutions.md  # Estudo de Caso: Migração Cloud sob pressão
+│
+├── 📂 aula-02-security-by-design/
+│   ├── 📄 template_matriz_stride.md     # Matriz de Requisitos e Modelagem de Ameaças
+│   ├── 📄 case_freelasy_app.md          # Estudo de Caso: App SaaS de faturamento
+│   └── 📄 roteiro_instalacao_tools.md   # Guia de instalação do Threat Dragon e Microsoft TMT
+│
+└── 📄 README.md                         # Este arquivo
+```
 ## 🚀 Como utilizar os templates
 
 Os templates disponibilizados aqui não são apenas para fins acadêmicos. Eles foram desenhados para serem copiados e utilizados no seu ambiente profissional amanhã mesmo.
